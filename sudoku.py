@@ -62,8 +62,3 @@ def is_valid(sudoku):
 
 
     return True
-                        
-
-    
-
-print(is_valid(sudoku_resuelto))
